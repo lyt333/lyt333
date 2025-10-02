@@ -1,16 +1,29 @@
-## Hi there 👋
+## 个人介绍
+### 基本信息
+学号：102301106  
+姓名：李玥彤
+### 兴趣爱好
+* 看剧
+* 看电影
 
-<!--
-**lyt333/lyt333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 成就成果
+* 统计建模一个小奖
 
-Here are some ideas to get you started:
+### 技能
+* c、c++、python基础
+* 美工 熟悉PS、Canva等图像处理软件
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 自我评估
+
+求大佬带！会主动学习，认真完成任务，积极参与讨论
+
+
+### 感兴趣的方向
+
+前端
+
+
+### 未来三年的发展方向
+
+* 找工作
+* 考公
